@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MostafaOwies.
-- 👀 I’m interested in Software developement, Data science and AI.
-- 🌱 I’m currently learning Java Android developement.
+- 👀 I’m interested in Software development, Data science, and AI.
+- 🌱 I’m currently working as a Native Android Developer with Kotlin and Jetpack Compose
 - 📫 How to reach me mostafaowies@yahoo.com 
 
 <!---
